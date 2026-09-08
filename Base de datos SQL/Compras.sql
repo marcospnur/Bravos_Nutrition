@@ -1,0 +1,1 @@
+SELECT * FROM bravos_nutrition.compras;
