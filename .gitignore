@@ -3,6 +3,7 @@
 
 # 2. Excepciones: Permitir únicamente código y configuración
 !*.py
+!*.ipynb
 !*.sql
 !.gitignore
 !README.md
